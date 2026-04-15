@@ -61,17 +61,11 @@ Autonomous traffic simulation without traffic lights
 
 ---
 
-## 📊 GitHub Stats
-
-![Abdoulaziba's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoulaziba&show_icons=true&theme=default)
-
----
-
 ## 🔥 What I’m Building
 
 I’m focused on creating **high-impact tech products** that solve real-world problems, especially in:
 - Logistics & optimization  
-- Digital infrastructure in Africa  
+- Digital infrastructure  
 - Smart systems & simulations  
 
 ---
@@ -79,7 +73,7 @@ I’m focused on creating **high-impact tech products** that solve real-world pr
 ## 🤝 Let's Connect
 
 💼 Open to collaborations, freelance & ambitious projects  
-📫 Contact: your@email.com  
+📫 Contact:baabdoulba770@email.com  
 
 ---
 
