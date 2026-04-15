@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdoulaziba
+# 👋 Hi, I'm Abdoul Aziz BA
 
 🚀 Full Stack Developer | Systems Builder | Tech Entrepreneur  
 🌍 Building impactful digital products from Africa to the world
